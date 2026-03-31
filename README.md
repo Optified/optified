@@ -4,7 +4,7 @@
 ### 📋  About Me
 
   
-  <p align="left">-I'm Alvin, a 4th year Cybersecurity student from Western Washington University working on an B.S with an interest in Network Security, and auditing.<br>
+  <p align="left">-I'm a 4th year Cybersecurity student from Western Washington University working on an B.S with an interest in Network Security, and auditing.<br>
 
 -I'm currently learning about cyber regulations, what they apply to, and the best way to implement best security practices.<br>
     
