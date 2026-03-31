@@ -15,24 +15,24 @@
 ###
 <h3 align="left"> Programming Languages </h3>
 
-![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+[![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)](https://www.java.com/en/download/help/whatis_java.html)
+[![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)](https://www.c-language.org/about)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)](https://www.gnu.org/software/bash/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/about/)
+[![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)](https://isocpp.org/about)
 
 ###
 
 <h3 align="left">🛠 Software and Tools </h3>
 
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=white&style=for-the-badge)
-![Suricata](https://img.shields.io/badge/Suricata-FF8C00?logoColor=white&style=for-the-badge)
-![Zeek](https://img.shields.io/badge/Zeek-1F77B4?logoColor=white&style=for-the-badge)
-![STIX 2](https://img.shields.io/badge/STIX%202-DC2626?logoColor=white&style=for-the-badge)
+[![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=white&style=for-the-badge)](https://opensearch.org/foundation/)
+[![Suricata](https://img.shields.io/badge/Suricata-FF8C00?logoColor=white&style=for-the-badge)](https://suricata.io/features/)
+[![Zeek](https://img.shields.io/badge/Zeek-1F77B4?logoColor=white&style=for-the-badge)](https://docs.zeek.org/en/master/about/index.html)
+[![STIX 2](https://img.shields.io/badge/STIX%202-DC2626?logoColor=white&style=for-the-badge)](https://oasis-open.github.io/cti-documentation/stix/intro.html)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?logo=openstack&logoColor=white&style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/about/)
+[![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?logo=openstack&logoColor=white&style=for-the-badge)](https://www.openstack.org)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)](https://www.wireshark.org/about)
 
 
 
