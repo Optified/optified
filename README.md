@@ -1,4 +1,10 @@
 ## Hi there 👋
+##I'm Alvin, a 4th year Cybersecurity student from Western Washington University working on an B.S with an interest in Network Security, and auditing.
+
+##I'm currently learning about cyber regulations, what they apply to, and the best way to implement best security practices.
+##Recent tools that I've been working with is Opensearch, Zeek, and Suricata for learning about SOC analysis and crafting signature based detection.
+##In my free time, I'm expanding my knowledge through learning and teaching in local cyber clubs.
+
 
 <!--
 **Optified/optified** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
