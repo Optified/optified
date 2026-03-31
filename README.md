@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">🛠 Software and Tools </h3>
+<h3 align="left">Software and Tools </h3>
 
 [![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=white&style=for-the-badge)](https://opensearch.org/foundation/)
 [![Suricata](https://img.shields.io/badge/Suricata-FF8C00?logoColor=white&style=for-the-badge)](https://suricata.io/features/)
